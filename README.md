@@ -1,6 +1,9 @@
 # Computational Approaches to Bridge Experimental and Simulation Viewpoints in Neuroscience
+<br>
 ![NPE-N vs NPE](figures/npe_npen_20190626_sample_1.png)
-*Yves Bernaerts*
+<br>
+**Yves Bernaerts**
+<br>
 <br>
 This repo contains raw data, preprocessed data, code and figures belonging to my PhD thesis. It also contains the latex code based on the [kaobook template](https://github.com/fmarotta/kaobook) with which the pdf can be rendered.
 
@@ -13,7 +16,9 @@ Most notably for this thesis: *Hybrid statistical-mechanistic modeling links ion
 <br>
 *Sparse reduced-rank regression for exploratory visualization of paired multivariate data* that can be found [here](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12494) with code [here](https://github.com/berenslab/patch-seq-rrr).
 <br>
-*Phenotypic variation of transcriptomic cell types in mouse motor cortex* that can found in [Nature](Phenotypic variation of transcriptomic cell types in mouse motor cortex) with code [here](https://github.com/berenslab/mini-atlas).
+*Phenotypic variation of transcriptomic cell types in mouse motor cortex* that can found in [Nature](https://www.nature.com/articles/s41586-020-2907-3) with code [here](https://github.com/berenslab/mini-atlas).
+<br>
+*Efficient identification of informative features in simulation-based inference* that can found as a [NeurIps](https://openreview.net/forum?id=AYQI3rlp9tW) conference paper and with code [here](https://github.com/berenslab/fslm).
 
 ## Data
 Some raw electrophysiological recordings in `.nwb` format can be found in `data/raw_data/`. They serve as exemplary cells to illustrate some of the results. All raw electrophysiological recordings that have been used in multiple studies that make up the bulk of this thesis can be found on [DANDI](https://dandiarchive.org/dandiset/000008/draft).
