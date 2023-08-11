@@ -1,6 +1,6 @@
 # PhD_thesis
 This repo contains raw data, preprocessed data, code and figures belonging to my PhD thesis. It also contains the latex code based on the [kaobook template](https://github.com/fmarotta/kaobook) with which the pdf can be rendered. 
-![NPE-N vs NPE](figures/npe_npen_20190417_sample_5.pdf)
+![NPE-N vs NPE](figures/preliminary/df_AP_chars.PNG)
 
 ## Data
 Some raw electrophysiological recordings in `.nwb` format can be found in `data/raw_data/`. They serve as exemplary cells to illustrate some of the results. All raw electrophysiological recordings that have been used in multiple studies that make up the bulk of this thesis can be found on [DANDI](https://dandiarchive.org/dandiset/000008/draft).
