@@ -11,13 +11,9 @@ This repo contains raw data, preprocessed data, code and figures belonging to my
 This thesis capitulates a couple of works, published and unpublished, and with much of the code available on GitHub.
 <br>
 1. Most notably for this thesis: *Hybrid statistical-mechanistic modeling links ion channel genes to physiology of cortical neuron types* which can be found on [BioArxiv](https://www.biorxiv.org/content/10.1101/2023.03.02.530774v1) and with code [here](https://github.com/berenslab/hh_sbi).
-<br>
 2. *Sparse bottleneck neural networks for exploratory non-linear visualization of Patch-seq data* that can be found on [ArXiv](https://arxiv.org/abs/2006.10411) with code [here](https://github.com/berenslab/sBNN).
-<br>
 3. *Sparse reduced-rank regression for exploratory visualization of paired multivariate data* that can be found [here](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12494) with code [here](https://github.com/berenslab/patch-seq-rrr).
-<br>
 4. *Phenotypic variation of transcriptomic cell types in mouse motor cortex* that can found in [Nature](https://www.nature.com/articles/s41586-020-2907-3) with code [here](https://github.com/berenslab/mini-atlas).
-<br>
 5. *Efficient identification of informative features in simulation-based inference* that can found as a [NeurIps](https://openreview.net/forum?id=AYQI3rlp9tW) conference paper and with code [here](https://github.com/berenslab/fslm).
 
 ## Data
