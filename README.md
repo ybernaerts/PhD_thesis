@@ -5,7 +5,7 @@
 **Yves Bernaerts**
 <br>
 <br>
-This repo contains raw data, preprocessed data, code and figures belonging to my PhD thesis. It also contains the latex code based on the [kaobook template](https://github.com/fmarotta/kaobook) with which the pdf can be rendered.
+This repo contains raw data, preprocessed data, code and figures belonging to my PhD thesis. It also contains the latex code based on the [kaobook](https://github.com/fmarotta/kaobook) template with which the pdf can be rendered.
 
 ## Papers
 This thesis capitulates a couple of works, published and unpublished, and with much of the code available on GitHub.
@@ -34,8 +34,6 @@ Small analyses and figures have been produced with code in the main directory.
 6. `bridge_and_embed.ipynb` produces embeddings showing average performance of applying **NPE-N** to a full Patch-seq data set.
 
 
-
-
 ## Figures
 In `figures/`, you can find most figures (not including sketches) that are included in the thesis.
 
@@ -43,6 +41,9 @@ In `figures/`, you can find most figures (not including sketches) that are inclu
 Install the following dependencies before running any notebook and you should be good to go:
 <br>
 `pip install -r requirements.txt`
+
+## Supervision
+A great deal of gratitude goes to Prof. Dr. Philipp Berens (philipp.berens@uni-tuebingen.de) and Dr. Dmitry Kobak (dmitry.kobak@uni-tuebingen.de) for their continued supervision and support. 
 
 ## Contact
 Contact me at yves.bernaerts@research.fchampalimaud.org
