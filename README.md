@@ -33,7 +33,7 @@ Small analyses and figures have been produced with code in the main directory.
 5. `bridge_genotype_to_phenotype.ipynb` shows how sparse reduced-rank regression can be utilized to bridge the genotype of a neuron --- in the form of its gene expression levels --- to Hodgkin-Huxley model parameters, and specificially those that can generate simulations that reproduce the raw ephys recording, both qualitately and quantitatively.
 6. `bridge_and_embed.ipynb` produces embeddings showing average performance of applying **NPE-N** to a full Patch-seq data set.
 <br>
-Regarding 3-6 it definitely makes sense to check out [this](https://github.com/berenslab/hh_sbi) GitHub repo.
+Regarding 4-6 it definitely makes sense to check out [this](https://github.com/berenslab/hh_sbi) GitHub repo.
 
 ## Figures
 In `figures/`, you can find most figures (not including sketches) that are included in the thesis.
