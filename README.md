@@ -1,6 +1,6 @@
 # Computational Approaches to Bridge Experimental and Simulation Viewpoints in Neuroscience
 
-![sketch](figures/ML_neural_science_sketch.png = 250x250)
+![sketch](figures/ML_neural_science_sketch.png | width=100)
 <br>
 **Yves Bernaerts**
 <br>
