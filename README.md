@@ -1,11 +1,11 @@
 # Computational Approaches to Bridge Experimental and Simulation Viewpoints in Neuroscience
 <br>
-![NPE-N vs NPE](figures/npe_npen_20190626_sample_1.png)
+![sketch](figures/ML_neural_science_sketch.png)
 <br>
 **Yves Bernaerts**
 <br>
 <br>
-This repo contains raw data, preprocessed data, code and figures belonging to my PhD thesis. It also contains the latex code based on the [kaobook](https://github.com/fmarotta/kaobook) template with which the pdf can be rendered.
+This repo contains raw data, preprocessed data, code and figures belonging to my PhD thesis. It also contains the latex code based on the [kaobook](https://github.com/fmarotta/kaobook) template with which the pdf can be rendered. Full thesis can be read in `thesis.pdf`.
 
 ## Papers
 This thesis capitulates a couple of works, published and unpublished, and with much of the code available on GitHub.
