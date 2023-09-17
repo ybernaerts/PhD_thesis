@@ -5,7 +5,7 @@
 **Yves Bernaerts**
 <br>
 <br>
-This repo contains raw data, preprocessed data, code and figures belonging to my PhD thesis. It also contains the latex code based on the [kaobook](https://github.com/fmarotta/kaobook) template with which the pdf can be rendered. Full thesis can be read in `thesis.pdf`.
+This repo contains raw data, preprocessed data, code and figures belonging to my PhD thesis. Full thesis can be read in `thesis.pdf` and is based on the [kaobook](https://github.com/fmarotta/kaobook) template.
 
 ## Papers
 This thesis capitulates a couple of works, published and unpublished, and with much of the code available on GitHub.
