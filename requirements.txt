@@ -14,3 +14,4 @@ sbi==0.21.0
 pathos==0.2.8
 opentsne==0.6.2 
 tensorflow==2.7.0
+dandi==0.13.0
