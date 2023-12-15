@@ -17,7 +17,7 @@ This thesis capitulates a couple of works, published and unpublished, and with m
 5. *Efficient identification of informative features in simulation-based inference* that can found as a [NeurIps](https://openreview.net/forum?id=AYQI3rlp9tW) conference paper and with code [here](https://github.com/berenslab/fslm).
 
 ## Data
-Some raw electrophysiological recordings in `.nwb` format can be found in `data/raw_data/`. They serve as exemplary cells to illustrate some of the results. All raw electrophysiological recordings that have been used in multiple studies that make up the bulk of this thesis can be found on [DANDI](https://dandiarchive.org/dandiset/000008/draft).
+Some raw electrophysiological recordings in `.nwb` format can be found in `data/raw_data/`. They serve as exemplary cells to illustrate some of the results. All raw electrophysiological recordings that have been used in multiple studies that make up the bulk of this thesis can be found on [DANDI](https://dandiarchive.org/dandiset/000008/draft). Please follow the instructions there to download all the raw data. You might need it depending on which notebook you would want to turn, but the few raw data examples given could be sufficient too.
 <br>
 Most of the preprocessed data is in `data/`. Yet some files are too big for upload on GitHub. These include:
 1. full_batch.npz that can be downloaded from [Zenodo](https://zenodo.org/record/7716391).
